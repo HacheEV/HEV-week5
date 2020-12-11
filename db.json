@@ -1,0 +1,58 @@
+{
+  "todos": [
+    {
+      "name": "Mi primer todo",
+      "description": "Esto es una description",
+      "completed": false,
+      "completion_date": "",
+      "status": "to_do",
+      "owner": "Hector",
+      "id": 1
+    },
+    {
+      "name": "Mi segundo todo",
+      "description": "Esto es una description",
+      "completed": false,
+      "completion_date": "",
+      "status": "to_do",
+      "owner": "Hector",
+      "id": 2
+    },
+    {
+      "name": "Mi tercer todo",
+      "description": "Esto es una description",
+      "completed": false,
+      "completion_date": "",
+      "status": "to_do",
+      "owner": "Hector",
+      "id": 3
+    },
+    {
+      "name": "Hacer la cama",
+      "description": "Recordar hacer la cama",
+      "completed": false,
+      "completion_date": "",
+      "status": "to_do",
+      "owner": "Hector",
+      "id": 4
+    },
+    {
+      "name": "Comprar",
+      "description": "Comprar roastbeef",
+      "completed": false,
+      "completion_date": "",
+      "status": "to_do",
+      "owner": "Mami",
+      "id": 5
+    },
+    {
+      "name": "Otro todo",
+      "description": "Do an other todo",
+      "completed": false,
+      "completion_date": "",
+      "status": "to_do",
+      "owner": "Hector",
+      "id": 6
+    }
+  ]
+}

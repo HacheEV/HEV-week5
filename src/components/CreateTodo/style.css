@@ -1,0 +1,45 @@
+.form-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.25);
+    background-color: white;
+    margin: 1rem;
+       
+
+}
+.top-card{
+    display: flex;
+}
+.input{
+    border-radius: 5px;
+    height: 1.25rem;
+}
+.target{
+    display: flex;
+    flex-direction: column;
+    margin: 0.5rem;
+}
+.txt-todo{
+    margin: 0.5rem;
+    border-radius: 5px;
+    width: auto;
+    
+}
+.lbl-description{
+    margin-left: 0.5rem;
+   
+}
+.btn-create{
+    text-transform: uppercase;
+    font-weight: bold;
+    width: 7.5rem;
+    margin: 0.5rem;
+    font-size: 1.1rem;
+    padding: 0.25rem;
+    border-radius: 10px;
+    background-color: #cef5b8;
+    
+}
